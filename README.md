@@ -1,2 +1,4 @@
-# change-ipa-mode
+# Change IPA mode
 Script para alteração do modo de autenticação no IPA entre OTP e password
+
+
